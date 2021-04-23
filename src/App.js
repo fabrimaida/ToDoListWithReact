@@ -4,7 +4,7 @@ import ItemsList from './components/ItemsList'
 
 function App() {
 
-  
+  console.log("Branch B like bitch");
 
   //STATO dell'array Testi che contiene l'insieme dei diversi input
   let initialValue = JSON.parse(localStorage.getItem('userList')) || [];
