@@ -4,6 +4,7 @@ import ItemsList from './components/ItemsList'
 
 function App() {
 
+  console.log("Branch A che vuol dire a chi te muort'");
   
 
   //STATO dell'array Testi che contiene l'insieme dei diversi input
